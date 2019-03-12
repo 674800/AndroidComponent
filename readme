@@ -1,0 +1,2 @@
+1.如果当application使用，修改gradle.properties isDebug = true
+2.修改debug 中AndroidMainfest.xml  打开Launcher 属性
